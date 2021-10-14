@@ -1,1 +1,1 @@
-# Car-Price-EDA
+# Python Projects
